@@ -1,0 +1,6 @@
+C:\Users\segl\source\repos\Veiculos\Veiculos\bin\Debug\Veiculos.exe.config
+C:\Users\segl\source\repos\Veiculos\Veiculos\bin\Debug\Veiculos.exe
+C:\Users\segl\source\repos\Veiculos\Veiculos\bin\Debug\Veiculos.pdb
+C:\Users\segl\source\repos\Veiculos\Veiculos\obj\Debug\Veiculos.csprojAssemblyReference.cache
+C:\Users\segl\source\repos\Veiculos\Veiculos\obj\Debug\Veiculos.exe
+C:\Users\segl\source\repos\Veiculos\Veiculos\obj\Debug\Veiculos.pdb
